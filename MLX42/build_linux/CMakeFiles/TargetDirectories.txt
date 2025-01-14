@@ -1,0 +1,7 @@
+/home/dkros/Desktop/Codam/FdF/MLX42/build_linux/CMakeFiles/mlx42.dir
+/home/dkros/Desktop/Codam/FdF/MLX42/build_linux/CMakeFiles/edit_cache.dir
+/home/dkros/Desktop/Codam/FdF/MLX42/build_linux/CMakeFiles/rebuild_cache.dir
+/home/dkros/Desktop/Codam/FdF/MLX42/build_linux/CMakeFiles/list_install_components.dir
+/home/dkros/Desktop/Codam/FdF/MLX42/build_linux/CMakeFiles/install.dir
+/home/dkros/Desktop/Codam/FdF/MLX42/build_linux/CMakeFiles/install/local.dir
+/home/dkros/Desktop/Codam/FdF/MLX42/build_linux/CMakeFiles/install/strip.dir

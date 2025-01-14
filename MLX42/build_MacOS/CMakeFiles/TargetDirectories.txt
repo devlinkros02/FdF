@@ -1,0 +1,7 @@
+/Users/devlinkros/Desktop/Codam/FdF/MLX42/build_MacOS/CMakeFiles/mlx42.dir
+/Users/devlinkros/Desktop/Codam/FdF/MLX42/build_MacOS/CMakeFiles/edit_cache.dir
+/Users/devlinkros/Desktop/Codam/FdF/MLX42/build_MacOS/CMakeFiles/rebuild_cache.dir
+/Users/devlinkros/Desktop/Codam/FdF/MLX42/build_MacOS/CMakeFiles/list_install_components.dir
+/Users/devlinkros/Desktop/Codam/FdF/MLX42/build_MacOS/CMakeFiles/install.dir
+/Users/devlinkros/Desktop/Codam/FdF/MLX42/build_MacOS/CMakeFiles/install/local.dir
+/Users/devlinkros/Desktop/Codam/FdF/MLX42/build_MacOS/CMakeFiles/install/strip.dir
